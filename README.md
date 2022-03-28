@@ -1,6 +1,6 @@
 
 # Omnifood Project
-## Food Delivery Landing Page
+## Food Delivery Landing Page created with HTML, CSS and JavaScritpt
 
 ### Hero Section
 
@@ -11,3 +11,5 @@
 ##### Testimonials + Gallery
 ##### Pricing
 ##### CTA Section
+
+###### Sources: Udemy Course: Build Responsive Real-World Websites with HTML and CSS
